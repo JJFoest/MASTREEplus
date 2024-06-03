@@ -6,7 +6,7 @@ This is the official repository of the MASTREE+ dataset.
 MASTREE+ is a global-scale dataset comprised of spatially referenced records of annual reproductive output by wild perennial plant populations.
 
 ## Data explorer
-The dataset can be explored with a [Shiny App](https://mastreeplus.shinyapps.io/mastreeplus/). This data explorer also allows for customised downloads of time-series data via the "Filter" panel and zooming on the map. ![Collapsed](https://user-images.githubusercontent.com/64780789/149493475-10a8d276-b011-48e7-b7bb-93d757dd3464.png)
+The first version (V1) of this dataset can be explored with a [Shiny App](https://mastreeplus.shinyapps.io/mastreeplus/). This data explorer also allows for customised downloads of time-series data via the "Filter" panel and zooming on the map. ![Collapsed](https://user-images.githubusercontent.com/64780789/149493475-10a8d276-b011-48e7-b7bb-93d757dd3464.png)
 
 
 ## Structure
